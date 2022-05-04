@@ -17,6 +17,8 @@ npm install && npm run dev
 
 php artisan migrate --seed
 
+php artisan key:generate
+
 # login:  admin@example.com / password
 
 ```
